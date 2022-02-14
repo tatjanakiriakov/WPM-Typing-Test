@@ -1,0 +1,6 @@
+Hello, I am a text. You have to type me as fast as you possibly can to get a high score.
+This is a text block for you to type out. 
+I am a random text that you have to type out. This is just an example. Type me as fast as you can!
+On a Saturday morning she was walking her dog when she found a really cute coffee shop. 
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. 
+Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
